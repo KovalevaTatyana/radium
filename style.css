@@ -1,0 +1,12 @@
+#text {
+    color: red;
+    font-size: 20px;
+    font-weight: normal;
+    cursor: pointer;
+}
+#text:hover {
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+}
